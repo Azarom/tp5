@@ -5,7 +5,6 @@ public class vecteur {
 	private int y=0;
 	
 	public vecteur(int i, int j) {
-		// modif dev/1
 		this.x = i;
 		this.y = j;
 	}
